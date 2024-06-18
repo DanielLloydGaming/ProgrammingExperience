@@ -1,0 +1,4 @@
+interface IReadable
+{
+    void ReadItem();
+}
